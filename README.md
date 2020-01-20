@@ -1,5 +1,8 @@
-awscli Docker Image
+[awscli Docker Image](https://hub.docker.com/r/croneu/awscli)
 ====
+
+[![](https://images.microbadger.com/badges/image/croneu/awscli.svg)](https://microbadger.com/images/croneu/awscli "croneu/neos")
+[![](https://images.microbadger.com/badges/version/croneu/awscli.svg)](https://microbadger.com/images/croneu/awscli "AWSCLI Docker Image")
 
 Abstract
 ----
